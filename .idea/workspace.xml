@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94624230-cd4a-4630-87a4-8011c3ba7955" name="Changes" comment="Initial commit&#10;es6 -&gt; arrow functions">
-      <change afterPath="$PROJECT_DIR$/es6/arrowFunction.js" afterDir="false" />
+    <list default="true" id="94624230-cd4a-4630-87a4-8011c3ba7955" name="Changes" comment="es6: arrow functions">
+      <change afterPath="$PROJECT_DIR$/es6/promises.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/es6/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,15 +30,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +47,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691081094051</updated>
-      <workItem from="1691081095480" duration="23850000" />
+      <workItem from="1691081095480" duration="24382000" />
+      <workItem from="1691256306914" duration="11872000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit&#10;es6 -&gt; arrow functions">
       <created>1691102907412</created>
@@ -57,7 +57,14 @@
       <option name="project" value="LOCAL" />
       <updated>1691102907412</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="es6: arrow functions">
+      <created>1691183317411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1691183317411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +83,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit&#10;es6 -&gt; arrow functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit&#10;es6 -&gt; arrow functions" />
+    <MESSAGE value="es6: arrow functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="es6: arrow functions" />
   </component>
 </project>
